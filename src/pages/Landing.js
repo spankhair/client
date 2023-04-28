@@ -65,6 +65,7 @@ const Wrapper = styled.main`
     }
     .main-img {
       display: block;
+      width: auto;
     }
   }
 `;
